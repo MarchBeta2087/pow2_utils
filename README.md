@@ -4,6 +4,10 @@
 
 pow2_utils: 判断一个数是否为 2 的幂，以及判断一个数是 2 的多少次幂。
 
+欢迎大家测试这个库，也欢迎大家发 Issue、到 LINUX DO 社区交流！
+
+LINUX DO 帖子：[我让 Gemini 搞定了 2 的幂判断（包括是不是 2 的幂，是 2 的多少次幂）](https://linux.do/t/topic/1847094)
+
 调用`pow2_utils.hpp`，使用这些函数，让你的开发更加便捷：
 
 `pow2::checkpow2`: 判断一个数是否为 2 的幂。
