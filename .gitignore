@@ -1,0 +1,27 @@
+# Windows 可执行文件
+*.exe
+*.exe~
+*.dll
+*.lib
+*.msi
+*.com
+*.bat
+*.cmd
+
+# macOS/Linux 可执行（无扩展名，通常通过目录排除）
+/bin/
+/dist/
+/build/
+/out/
+/target/
+
+# 通用构建产物
+*.app
+*.pkg
+*.deb
+*.rpm
+
+*.obj
+*.o
+*.a
+*.so
