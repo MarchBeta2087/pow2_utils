@@ -71,6 +71,10 @@ C++20 最优:               GCC 11+  / Clang 14+  / MSVC 2019 16.8+
 
 pow2_utils: Determines whether a number is a power of 2, and determines how many times a number is a power of 2.
 
+Welcome everyone to test this library, and also welcome to submit issues or communicate in the LINUX DO community!
+
+LINUX DO post: [我让 Gemini 搞定了 2 的幂判断（包括是不是 2 的幂，是 2 的多少次幂）/I let Gemini handle the power of 2 check (including whether it is a power of 2 and which power of 2 it is)](https://linux.do/t/topic/1847094)
+
 Call `pow2_utils.hpp` and use these functions to make your development easier:
 
 `pow2::checkpow2`: Determines if a number is a power of 2.
