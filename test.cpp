@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2026 MarchBeta2087
  *
- * SPDX-License-Identifier: Unlicense
+ * SPDX-License-Identifier: MIT
  * 
  * pow2_utils 测试程序。
  * 

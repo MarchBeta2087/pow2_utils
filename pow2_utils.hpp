@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2026 MarchBeta2087
  *
- * SPDX-License-Identifier: Unlicense
+ * SPDX-License-Identifier: MIT
  * 
  * pow2_utils: 判断一个数是否为 2 的幂，以及判断一个数是 2 的多少次幂。
  * 
